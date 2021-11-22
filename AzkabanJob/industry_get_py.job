@@ -1,0 +1,4 @@
+#2
+type=command
+dependencies=stock_today_py
+command=python3 /opt/myScript/industry_get.py

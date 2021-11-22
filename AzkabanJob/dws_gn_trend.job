@@ -1,0 +1,4 @@
+#dws
+type=command
+dependencies=dwd_gn
+command=sh /opt/myScript/mysql_pr/pr_dws_gn_trend.sh

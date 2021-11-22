@@ -1,0 +1,4 @@
+#ads
+type=command
+dependencies=dws_industry_trend,dws_gn_trend,dws_stock_trend
+command=sh /opt/myScript/mysql_pr/pr_ads_stock_start_break.sh

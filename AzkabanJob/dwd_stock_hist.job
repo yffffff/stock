@@ -1,0 +1,4 @@
+#dwd
+type=command
+dependencies=stock_load
+command=sh /opt/myScript/mysql_pr/pr_dwd_stock_hist.sh

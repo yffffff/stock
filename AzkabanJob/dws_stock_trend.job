@@ -1,0 +1,4 @@
+#dws
+type=command
+dependencies=dwd_stock_hist
+command=sh /opt/myScript/mysql_pr/pr_dws_stock_trend.sh

@@ -1,0 +1,4 @@
+#2
+type=command
+dependencies=stock_get_py
+command=sh /opt/myScript/stock_load.sh

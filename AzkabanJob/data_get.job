@@ -1,0 +1,4 @@
+#3
+type=command
+dependencies=ads_stock_fifteen_trend,ads_stock_start_break
+command=echo 　finish

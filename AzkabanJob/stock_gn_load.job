@@ -1,0 +1,4 @@
+#3
+type=command
+dependencies=concept_get_py
+command=sh /opt/myScript/stock_gn_load.sh

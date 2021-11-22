@@ -1,0 +1,4 @@
+#3
+type=command
+dependencies=industry_get_py
+command=sh /opt/myScript/stock_industry_load.sh

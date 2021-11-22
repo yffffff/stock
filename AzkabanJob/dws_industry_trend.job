@@ -1,0 +1,4 @@
+#dws
+type=command
+dependencies=dwd_industry
+command=sh /opt/myScript/mysql_pr/pr_dws_industry_trend.sh

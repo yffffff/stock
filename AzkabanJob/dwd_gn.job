@@ -1,0 +1,4 @@
+#dwd
+type=command
+dependencies=stock_gn_load
+command=sh /opt/myScript/mysql_pr/pr_dwd_gn.sh
